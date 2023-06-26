@@ -62,3 +62,16 @@ Originally Published - 2014
 Description - A wonderful book to aid those newcomers in the understanding of pointers and arrays.
 This book includes 10 chapters. This book Includes - What is a pointer?
 Pointer types, Array Pointers, Strings Pointers and Structures, Arrays of Strings, Multi-Dimensional Arrays, Pointers to Arrays, Dynamic Allocation of Memory
+
+
+
+
+          6
+Name - Clean Code
+Author - Robert C. Martin
+Originally Published - 2008
+Description - Clean Codeis divided into three parts. The first describes the principles, patterns, and practices of writing clean code.
+The second part consists of several case studies of increasing complexity. 
+Each case study is an exercise in cleaning up code―of transforming a code base that has some problems into one that is sound and efficient. 
+The third part is the payoff: a single chapter containing a list of heuristics and “smells” gathered while creating the case studies. 
+The result is a knowledge base that describes the way we think when we write, read, and clean code.
