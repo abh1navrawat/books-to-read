@@ -96,3 +96,18 @@ Functions as objects: view Python functions as first-class objects, and understa
 Object-oriented idioms: build classes by learning about references, mutability, interfaces, operator overloading, and multiple inheritance
 Control flow: leverage context managers, generators, coroutines, and concurrency with the concurrent.futures and asyncio packages 
 Metaprogramming: understand how properties, attribute descriptors, class decorators, and metaclasses work
+
+
+
+
+
+
+
+          8
+Name - The Phoenix Project
+Author - Gene Kim 
+Originally Published - 2018
+Description - a must-read for any experienced developer who wants to learn DevOps and Automation.
+The book is written in a novel style and teaches the story of an IT manager who tries to manage
+the technology of a company that is falling behind its competition.
+The book is very easy to go through and teaches you how having an appetite for automation and implications can work wonders. 
