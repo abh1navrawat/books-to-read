@@ -59,7 +59,8 @@ important algorithms and Practice problems on Array
 Name - Pointers and Arrays
 Author - Abhishek Dayal
 Originally Published - 2014
-Description - A wonderful book to aid those newcomers in the understanding of pointers and arrays.
+Description - 
+A wonderful book to aid those newcomers in the understanding of pointers and arrays.
 This book includes 10 chapters. This book Includes - What is a pointer?
 Pointer types, Array Pointers, Strings Pointers and Structures, Arrays of Strings, Multi-Dimensional Arrays, Pointers to Arrays, Dynamic Allocation of Memory
 
@@ -70,7 +71,8 @@ Pointer types, Array Pointers, Strings Pointers and Structures, Arrays of String
 Name - Clean Code
 Author - Robert C. Martin
 Originally Published - 2008
-Description - Clean Codeis divided into three parts. The first describes the principles, patterns, and practices of writing clean code.
+Description - 
+Clean Codeis divided into three parts. The first describes the principles, patterns, and practices of writing clean code.
 The second part consists of several case studies of increasing complexity. 
 Each case study is an exercise in cleaning up code―of transforming a code base that has some problems into one that is sound and efficient. 
 The third part is the payoff: a single chapter containing a list of heuristics and “smells” gathered while creating the case studies. 
@@ -84,7 +86,8 @@ The result is a knowledge base that describes the way we think when we write, re
 Name - Fluent Python
 Author - Luciano Ramalho
 Originally Published - 2015
-Description - Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer.
+Description - 
+Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer.
 With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features.
 Author Luciano Ramalho takes you through Python’s core language features and libraries,
 and shows you how to make your code shorter, faster,and more readable at the same time.
@@ -107,7 +110,29 @@ Metaprogramming: understand how properties, attribute descriptors, class decorat
 Name - The Phoenix Project
 Author - Gene Kim 
 Originally Published - 2018
-Description - a must-read for any experienced developer who wants to learn DevOps and Automation.
+Description - 
+A must-read for any experienced developer who wants to learn DevOps and Automation.
 The book is written in a novel style and teaches the story of an IT manager who tries to manage
 the technology of a company that is falling behind its competition.
 The book is very easy to go through and teaches you how having an appetite for automation and implications can work wonders. 
+
+
+
+
+
+
+          9
+Name - Effective Java
+Author - Joshua Bloch
+Originally published - 2017
+Description - 
+This is a must-read book for any experienced Java programmer. It's written by famous Joshua Bloch who has written 
+so many classes from java.lang and Java Collections framework. 
+
+The book is very different from any traditional programming book and will teach you how to use the 
+language for practical things instead of focusing on syntax and semantics.
+
+I highly suggest you read the intro to get the perspective of the author. He has given a very interesting example of how programming language
+is co-related with speaking languages and the difference between just using and using it the right way.
+
+This is also the most recommended book for senior Java developers and really deserves a place on your bookshelf.
