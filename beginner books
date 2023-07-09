@@ -124,7 +124,7 @@ The book is very easy to go through and teaches you how having an appetite for a
           9
 Name - Effective Java
 Author - Joshua Bloch
-Originally published - 2017
+Originally Published - 2017
 Description - 
 This is a must-read book for any experienced Java programmer. It's written by famous Joshua Bloch who has written 
 so many classes from java.lang and Java Collections framework. 
@@ -136,3 +136,18 @@ I highly suggest you read the intro to get the perspective of the author. He has
 is co-related with speaking languages and the difference between just using and using it the right way.
 
 This is also the most recommended book for senior Java developers and really deserves a place on your bookshelf.
+
+
+
+
+
+
+          10
+Name - Programming Pearls
+Author - Jon Bentley
+Originally Published - !999
+Description - Every concept is properly covered with practical problems and various effective and efficient solutions. 
+This is pleasant to read because the writing style is simply great. 
+The book challenges your understanding of the core concepts in memory, CPU, and algorithms and gradually increments the difficulties 
+rather than giving you the answer right away because the main motto of this book is to help you become a better problem solver.
+This book is the best place to practice problems of data structure and algorithms, especially searching, sorting, heaps, etc
